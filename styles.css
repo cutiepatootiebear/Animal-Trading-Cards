@@ -1,0 +1,37 @@
+/* add your CSS here */
+.card {
+  border: 1px solid lightgrey;
+  padding: 10px;
+  margin: auto;
+  background-color: grey;
+  border-radius: 20px;
+  border-color: grey;
+  width: 300px;
+  color: black;
+  box-shadow: 5px 5px lightgrey;
+}
+
+.photo1 {
+  width: 300px;
+  border-radius: 20px;
+  height: 200px;
+  padding-bottom: 10px;
+}
+
+.information-box {
+  border: 1px solid black;
+  margin: auto;
+  padding: 5px 10px;
+  font-size: 14px;
+}
+
+.table {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.facts {
+  font-weight: bold;
+}
